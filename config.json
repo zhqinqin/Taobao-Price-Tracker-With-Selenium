@@ -1,0 +1,7 @@
+{
+  "product_url": "https://item.taobao.com/item.htm?id=商品ID",
+  "target_price": 299.0,
+  "email_sender": "你的QQ邮箱@qq.com",
+  "email_password": "邮箱SMTP授权码",
+  "email_receiver": "接收通知的邮箱"
+}
